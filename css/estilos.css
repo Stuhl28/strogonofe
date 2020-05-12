@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://img.itdg.com.br/tdg/images/recipes/000/002/744/325185/325185_original.jpg?mode=crop&width=800&height=800");
+   background-size: auto 100vh;
+   height: 100vh
+ }
+ a {
+   color: teal;
+   text-align: center;
+   }
+ a:hover {
+   text-decoration: underline;
+ }
+ .menu ul {
+   display: flex;
+   justify-content: space-around;
+ }
+ .menu li { list-style: none;
+ }
+ header {
+   color: whitesmoke;
+   text-align: center;
+   
+ }
+ 
+ 
+ 
